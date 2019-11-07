@@ -1,4 +1,3 @@
-<!doctype HTML>
 <html>
 	<h1>(Usermade) Manual For STM8S105K4T6</h1>
 	<p>A word of warning: Im writing this as im learning it, because the support is so little, and I want to help others find the correct information on the usage of this board. I am in no way an expert, so what I write may not always be correct. Feel free to cantact me with any mistakes at swc.rainier@gmail.com</p>
