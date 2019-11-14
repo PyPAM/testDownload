@@ -1,7 +1,9 @@
 <html>
   <h1>n = Rainier's Projects<h1>
-  <h2>print(n)<h2>
+  <h1>print(n)<h1>
+  <h1>----------------------</h1>  
   <body>
-    <p>Welocome to my site, where you can find my projects, games, and more!</p>
+     <p>Welcome, feel free to take a look around.</p>
+     <a href="STM8S">STM8SBLACK</a> 
   </body>
 </html>
