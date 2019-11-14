@@ -4,6 +4,6 @@
 	<h2>Setting Up Your Board</h2>
 	<img src="STM8.jfif" alt="STM8S105K4T6" width="342"
          height="342">
-	<p>When you first get your board, </p>
+	<p>When you first get your board, you will need to solder the headers on. once you've soldered all the headers in the right place, you should be able to program it! The next image shows you what it should look like with the headers soldered on.</p>
 	
 </html>
