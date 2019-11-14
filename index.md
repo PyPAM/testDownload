@@ -4,6 +4,6 @@
   <h1>----------------------</h1>  
   <body>
      <p>Welcome, feel free to take a look around.</p>
-     <a href="STM8S">STM8SBLACK</a> 
+     <a href="STM8S.md">STM8SBLACK</a> 
   </body>
 </html>
